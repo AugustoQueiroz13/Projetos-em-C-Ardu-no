@@ -1,7 +1,6 @@
 /*
    Q0422
    AUTOR:   BrincandoComIdeias
-   LINK:    https://www.youtube.com/brincandocomideias ; https://cursodearduino.net/
    SKETCH:  Irrigação Inteligente
    DATA:    28/01/2019
 */
